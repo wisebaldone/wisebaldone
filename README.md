@@ -14,15 +14,11 @@ Some of the things I have worked on.
 
 ### IAM Projects ( WIPs )
 
-|||
-| --- | --- |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wisebaldone&repo=vscode-ldap)](https://github.com/wisebaldone/vscode-ldap) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wisebaldone&repo=telegraf-execd-389ds-input)](https://github.com/wisebaldone/telegraf-execd-389ds-input)|
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wisebaldone&repo=vscode-ldap)](https://github.com/wisebaldone/vscode-ldap) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wisebaldone&repo=telegraf-execd-389ds-db-input)](https://github.com/wisebaldone/telegraf-execd-389ds-input)
 
 ### Apache Projects
 
-|||
-| --- | --- |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=incubator-retired-wave)](https://github.com/apache/incubator-retired-wave) | |
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=incubator-retired-wave)](https://github.com/apache/incubator-retired-wave)
 
 
 
